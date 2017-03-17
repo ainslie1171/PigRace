@@ -1,0 +1,8 @@
+name: PigRace
+author: ainslie
+main: com.ainslie.PigRace.PigRace
+version: 0.0
+commands: 
+    PigRace:
+        description: Pig Race base command
+    PR:
